@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetForm>
+	<Name>MineVision</Name>
+	<Priority>4000</Priority>
+	<Children>
+		<Item href="../TargetPfntl.(WidgetPanel).xdb" />
+		<Item href="../MainScreenControl3D.(WidgetPanel).xdb" />
+		<Item href="../test.(WidgetControl3D).xdb" />
+		<Item href="../WidgetPanel.(WidgetPanel).xdb" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+</WidgetForm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UIAddon>
+	<Name>MineVision</Name>
+	<AutoStart>true</AutoStart>
+	<ScriptFileRefs>
+		<Item href="Scripts/ScriptMain.lua" />
+	</ScriptFileRefs>
+	<Form href="Widgets/MainForm.(WidgetForm).xdb" />
+	<texturesGroups>
+		<Item>
+			<groupName>Common</groupName>
+			<textures href="ArrowTest.(UIRelatedTextures).xdb" />
+		</Item>
+	</texturesGroups>
+</UIAddon>

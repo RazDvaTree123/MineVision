@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>MainScreenControl3D123</Name>
+	<Priority>15</Priority>
+	<BackLayer href="Arrow1.(WidgetLayerSimpleTexture).xdb" />
+	<Visible>false</Visible>
+	<TransparentInput>true</TransparentInput>
+	<PickChildrenOnly>false</PickChildrenOnly>
+</WidgetPanel>

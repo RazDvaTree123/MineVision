@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetControl3D>
+	<Name>MainScreenControl3D</Name>
+	<BackLayer href="Arrow1.(WidgetLayerSimpleTexture).xdb" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>160</Size>
+		</X>
+		<Y>
+			<Size>260</Size>
+		</Y>
+	</Placement>
+	<Visible>false</Visible>
+	<TransparentInput>true</TransparentInput>
+</WidgetControl3D>
